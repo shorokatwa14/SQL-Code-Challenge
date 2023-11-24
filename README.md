@@ -12,8 +12,8 @@ Visit my CodeSignal profile: [shorokatwa14](https://app.codesignal.com/profile/s
 
 ### Table 1: [Welcome to the Table]
 
-- **Solution File:** [Table 1 solution](Welcome_to_the_Table/)
-- **Explanation:** [Link to table 1 README](Welcome_to_the_Table/README.md)
+- **Solution File:** [Table 1 solution](Welcome_to_the_table/)
+- **Explanation:** [Link to table 1 README](Welcome_to_the_table/README.md)
 
 ## Usage
 
