@@ -12,9 +12,13 @@ Visit my CodeSignal profile: [shorokatwa14](https://app.codesignal.com/profile/s
 
 ### Table 1: [Welcome to the Table]
 
-- **Solution File:** [Table 1 solution](Welcome_to_the_table/)
+- **Solution File:** [Table 2 solution](Welcome_to_the_tabe/)
 - **Explanation:** [Link to table 1 README](Welcome_to_the_table/README.md)
+- 
+### Table 1: [Welcome to the Table]
 
+- **Solution File:** [Table 1 solution](Always Leave Table in ORDER/)
+- **Explanation:** [Link to table 1 README](Always Leave Table in ORDER/README.md)
 ## Usage
 
 Each folder contains SQL solution files (`ProblemName.sql`) and a README file (`README.md`). The README file provides an explanation of the problem and details about the SQL approach taken to solve it.
