@@ -8,7 +8,7 @@ This repository contains my solutions to various SQL problems on CodeSignal. Cod
 
 Visit my CodeSignal profile: [shorokatwa14](https://app.codesignal.com/profile/shorokatwa14)
 
-## SQL Problem Solutions
+## SQL Problems Solutions
 
 ### Table 1: [Welcome to the Table]
 
